@@ -2,8 +2,7 @@
 //  MediBotApp.swift
 //  MediBot
 //
-//  Created by Zonish Sheikh on 02/02/2026.
-//
+//  Created by Zonish Sheikh
 
 import SwiftUI
 
@@ -11,7 +10,7 @@ import SwiftUI
 struct MediBotApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
         }
     }
 }
