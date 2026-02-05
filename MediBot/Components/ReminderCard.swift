@@ -26,7 +26,6 @@ struct ReminderCard: View {
                     .font(.subheadline)
                     .foregroundColor(.gray)
             }
-
             Spacer()
 
             Text("View All")

@@ -13,6 +13,7 @@ enum AppTab: Hashable {
     case insights
     case profile
 }
+
 import SwiftUI
 
 struct MainTabView: View {

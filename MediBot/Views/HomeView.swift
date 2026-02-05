@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct HomeView: View {
-
     @Binding var selectedTab: AppTab
 
     @State private var medicationName: String = ""

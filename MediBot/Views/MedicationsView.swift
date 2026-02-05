@@ -20,7 +20,6 @@ struct MedicationsView: View {
         }
     }
 }
-
 #Preview {
     MedicationsView()
 }
