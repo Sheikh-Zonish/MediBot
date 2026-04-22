@@ -21,7 +21,7 @@ To run this project, the following are required:
 * The backend repository downloaded locally
 
 Backend repository:
-Sheikh-Zonish/Medibot-backend
+https://github.com/Sheikh-Zonish/Medibot-backend
 
 ---
 
