@@ -98,19 +98,22 @@ After launching the app:
 ## Application Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/medications.png" width="250">
-  <img src="screenshots/interactions.png" width="250">
+  <img src="screenshots/home.png" width="300">
+  <img src="screenshots/medications.png" width="300">
 </p>
 
 <p align="center">
-  <img src="screenshots/insights.png" width="250">
-  <img src="screenshots/safety.png" width="250">
-  <img src="screenshots/history.png" width="250">
+  <img src="screenshots/interactions.png" width="300">
+  <img src="screenshots/insights.png" width="300">
 </p>
 
 <p align="center">
-  <img src="screenshots/profile.png" width="250">
+  <img src="screenshots/safety.png" width="300">
+  <img src="screenshots/history.png" width="300">
+</p>
+
+<p align="center">
+  <img src="screenshots/profile.png" width="300">
 </p>
 
 ---
